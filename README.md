@@ -15,10 +15,12 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamiltonneto09&show_icons=true&locale=en&layout=compact" alt="hamiltonneto09" /></p>
+
 <!---
 - 👋 Hi, I’m @hamiltoneto09
 - 👀 I’m interested in ...
+
+hamiltoneto09/hamiltoneto09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
