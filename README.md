@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, Eu sou Hamilton Neto</h1>
-<h3 align="center">apaixonado por Análise de dados e aprender novas tecnologias</h3>
+<h3 align="center">Entusiasta de Análise de dados e aprendizado de novas tecnologias.</h3>
 
 - atualmente estou aprendendo **Machine learning**
 
