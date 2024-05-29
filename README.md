@@ -5,7 +5,7 @@
 
 - me pergunte sobre **Mysql, Python, Tableau**
 
-- você me acha através do e-mail **hamiltonnetoccb@gmail.com**
+- você me acha através do e-mail **hamiltonnetopy@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
