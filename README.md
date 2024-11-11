@@ -3,7 +3,7 @@
 
 - atualmente estou aprendendo **Machine learning**
 
-- me pergunte sobre **Mysql, Python,Powerbi, Tableau**
+- me pergunte sobre **Mysql, Python,Powerbi , Tableau**
 
 - você me acha através do e-mail **hamiltonnetopy@gmail.com**
 
